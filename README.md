@@ -1,7 +1,9 @@
 <h2>Hi, I’m happy Jamie! 😃</h2>
 <p>
   ㆍ Designer
+  <br>
   ㆍ Front-end developer
+  <br>
   ㆍ Back-end developer
   <br>
   ㆍ Living in Seoul, Republic of Korea
