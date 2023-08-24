@@ -29,3 +29,8 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff"/>
 </p>
+<h4>ㆍ Design</h4>
+<p>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=fff"/>
+</p>
